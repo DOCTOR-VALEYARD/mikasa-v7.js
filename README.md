@@ -8,7 +8,7 @@
 
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-LTS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Baileys](https://img.shields.io/badge/Baileys-7.0.0--rc.9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-F72585?style=for-the-badge)
@@ -54,34 +54,38 @@ Todos os recursos são **gratuitos**: não existe sistema de VIP nem de pagament
 ## 📲 Instalação no Termux
 
 > [!NOTE]
-> Requer **Node.js 20 ou superior**. Os passos abaixo são para o **Termux** (Android), mas o bot também roda em qualquer Linux com Node.js.
+> O instalador abaixo é para o **Termux** (Android). Ele atualiza os pacotes, instala o que precisa, cria a pasta, baixa o bot, instala as dependências e já inicia.
 
-**1️⃣ Prepare o Termux**
+**🚀 Instalação em um comando**
 
-```bash
-pkg update -y && pkg upgrade -y
-pkg install -y nodejs git ffmpeg python
-pip install yt-dlp
-```
-
-**2️⃣ Baixe o projeto**
+Copie, cole no Termux e aperte `ENTER`:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+pkg update -y && pkg install -y nodejs-lts wget unzip ffmpeg && mkdir -p ~/MIKASA-V7 && cd ~/MIKASA-V7 && wget -O bot-v7.zip https://github.com/DOCTOR-VALEYARD/mikasa-v7.js/raw/refs/heads/main/bot-v7.zip && unzip -o bot-v7.zip && npm install && node mikasabot.js
 ```
 
-**3️⃣ Instale as dependências**
+**O que esse comando faz:**
+
+| Etapa | O que acontece |
+|:-:|---|
+| 1️⃣ | Atualiza o Termux e instala `nodejs-lts`, `wget`, `unzip` e `ffmpeg` |
+| 2️⃣ | Cria a pasta `~/MIKASA-V7` e entra nela |
+| 3️⃣ | Baixa o `bot-v7.zip` do GitHub e extrai os arquivos |
+| 4️⃣ | Instala as dependências com `npm install` |
+| 5️⃣ | Inicia o bot com `node mikasabot.js` |
+
+**▶️ Para ligar o bot nas próximas vezes**
 
 ```bash
-npm install
+cd ~/MIKASA-V7 && node mikasabot.js
 ```
 
-**4️⃣ Inicie o bot**
+**🔄 Para atualizar o bot**
 
-```bash
-npm start
-```
+Rode o comando de instalação de novo. Ele sobrescreve os arquivos do bot (`unzip -o`). A sessão do WhatsApp (`auth_info/`) fica guardada, mas os arquivos da pasta `database/` também são substituídos pelos do ZIP. Se quiser manter seus dados e configurações, faça uma cópia antes: `cp -r ~/MIKASA-V7/database ~/database-backup`.
+
+> [!TIP]
+> Quer baixar músicas com o `yt-dlp` como reserva? Instale com `pkg install -y python && pip install yt-dlp`. É opcional.
 
 ---
 
@@ -192,7 +196,7 @@ Apague a pasta `auth_info/` e inicie o bot de novo para conectar do zero.
 
 <br/>
 
-Confira se o `yt-dlp` e o `ffmpeg` estão instalados (`yt-dlp --version` e `ffmpeg -version`). Mantenha o `yt-dlp` atualizado com `pip install -U yt-dlp`.
+Confira se o `ffmpeg` está instalado (`ffmpeg -version`). Se usa o `yt-dlp` como reserva, confira com `yt-dlp --version` e mantenha atualizado com `pip install -U yt-dlp`.
 
 </details>
 
