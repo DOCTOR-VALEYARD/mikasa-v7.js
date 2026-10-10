@@ -1,5 +1,3 @@
-
-
 <div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=MIKASA%20BOT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bot%20de%20WhatsApp%20multifuncional&descAlignY=60&descSize=20" alt="Mikasa Bot" />  <a href="https://git.io/typing-svg">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=640&lines=%F0%9F%8C%B9+Eleg%C3%A2ncia+e+atitude+no+seu+WhatsApp;%F0%9F%A4%96+Menus+com+bot%C3%B5es+e+listas+interativas;%F0%9F%9B%A1%EF%B8%8F+Antilink%2C+antifake%2C+antidelete+e+mais;%F0%9F%8E%B5+M%C3%BAsica%2C+figurinhas%2C+jogos+e+IA;%F0%9F%93%B1+Feito+pra+rodar+no+Termux" alt="Digitando..." />  
 </a>  <br/>  Node.js
