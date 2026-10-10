@@ -1,14 +1,21 @@
-Mikasa Bot  Digitando...
-Node.js   Baileys   Termux   Licença   Versão
 
-✨ Recursos •
+
+<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=MIKASA%20BOT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bot%20de%20WhatsApp%20multifuncional&descAlignY=60&descSize=20" alt="Mikasa Bot" />  <a href="https://git.io/typing-svg">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=640&lines=%F0%9F%8C%B9+Eleg%C3%A2ncia+e+atitude+no+seu+WhatsApp;%F0%9F%A4%96+Menus+com+bot%C3%B5es+e+listas+interativas;%F0%9F%9B%A1%EF%B8%8F+Antilink%2C+antifake%2C+antidelete+e+mais;%F0%9F%8E%B5+M%C3%BAsica%2C+figurinhas%2C+jogos+e+IA;%F0%9F%93%B1+Feito+pra+rodar+no+Termux" alt="Digitando..." />  
+</a>  <br/>  Node.js
+Baileys
+Termux
+Licença
+Versão
+
+<br/>  ✨ Recursos •
 📲 Instalação •
 👑 Primeira execução •
 ⚙️ Configuração •
 📜 Comandos •
 ❓ Problemas
 
-
+</div>  
 ---
 
 💫 Sobre
@@ -22,7 +29,7 @@ Todos os recursos são gratuitos: não existe sistema de VIP nem de pagamento.
 
 ✨ Recursos
 
-Categoria	O que tem
+	Categoria	O que tem
 
 🤖	IA	Mikasa responde conversas com personalidade própria (precisa de uma chave de API, veja Configuração)
 📋	Menus interativos	Menu principal com botões e listas do WhatsApp, separado por categorias
@@ -33,6 +40,7 @@ Categoria	O que tem
 🎵	Música e mídia	Download de áudio, conversão para MP3, figurinhas e GIFs
 📊	Relatórios	Ranking de ativos e inativos, relatório diário de atividade
 ⚙️	Painel de configuração	Troca de prefixo, nome, criador e chaves direto pelo WhatsApp
+
 
 
 ---
@@ -60,6 +68,7 @@ Etapa	O que acontece
 4️⃣	Instala as dependências com npm install
 5️⃣	Inicia o bot com node mikasabot.js
 
+
 ▶️ Para ligar o bot nas próximas vezes
 
 cd ~/MIKASA-V7 && node mikasabot.js
@@ -84,14 +93,19 @@ Na primeira vez que você iniciar o bot, ele faz uma configuração rápida dire
 2. 📛 Nome do criador (opcional): digite um nome ou aperte ENTER para manter o padrão.
 3. 🔗 Forma de conexão: escolha entre QR Code ou Código de pareamento.
 
-➜ 5511999998888
+➜ 5511999998888  
 ✅ O criador será +5511999998888. Está certo? [S/n]
 
 Depois disso, o bot guarda tudo em database/botconfig.json e não pergunta de novo.
-🔄 Quero trocar o número do criador depois
 
-- Pelo WhatsApp, use o comando configurar-bot numero SEU_NUMERO.   - Ou apague a linha OWNER_CONFIGURADO do arquivo database/botconfig.json e reinicie o bot para ele perguntar de novo.        ---
-  ⚙️ Configuração
+<details>  
+<summary><b>🔄 Quero trocar o número do criador depois</b></summary>  <br/>  - Pelo WhatsApp, use o comando configurar-bot numero SEU_NUMERO.
+- Ou apague a linha OWNER_CONFIGURADO do arquivo database/botconfig.json e reinicie o bot para ele perguntar de novo.
+
+</details>  
+---
+
+⚙️ Configuração
 
 As configurações padrão ficam no config.js. O que for alterado pelo bot fica salvo em database/botconfig.json e tem prioridade.
 
@@ -104,15 +118,15 @@ OPEN_ACCESS	true = qualquer pessoa usa qualquer comando. false = comandos de don
 AI_ATIVA / AI_API_KEY	Liga a IA e define a chave da API
 MUSICA	Binário de download (yt-dlp), qualidade e duração máxima
 
+
 🤖 Ativando a IA
 
 A chave não vem no projeto. Defina de uma destas formas:
 
-opção 1: variável de ambiente
-
+# opção 1: variável de ambiente  
 export AI_API_KEY="sua_chave_aqui"
 
-// opção 2: database/botconfig.json
+// opção 2: database/botconfig.json  
 { "AI_API_KEY": "sua_chave_aqui" }
 
 Sem chave, o bot funciona normalmente, apenas sem as respostas de IA.
@@ -131,7 +145,16 @@ Por padrão o modo aberto vem ligado, ou seja, qualquer pessoa que falar com o b
 
 📜 Comandos
 
-> 🚧 A lista completa de comandos será adicionada aqui em breve.
+<!-- ======================================================  
+     ÁREA DOS COMANDOS  
+     Cole os comandos aqui, uma categoria por bloco.  
+     Modelo de tabela (copie e repita para cada categoria):  
+  
+     ### 🛡️ Administração  
+     | Comando | Descrição |  
+     |---|---|  
+     | `/exemplo` | O que o comando faz |  
+     ====================================================== -->  > 🚧 A lista completa de comandos será adicionada aqui em breve.
 
 
 
@@ -139,20 +162,32 @@ Por padrão o modo aberto vem ligado, ou seja, qualquer pessoa que falar com o b
 ---
 
 ❓ Problemas comuns
-🔌 A conexão cai ou pede para apagar a sessão
-Apague a pasta auth_info/ e inicie o bot de novo para conectar do zero.          🧩 Erro ao instalar o @napi-rs/canvas no Termux
-É uma dependência nativa e pode falhar em algumas configurações de Termux/ARM64. Atualize os pacotes (pkg update && pkg upgrade), confira se está usando Node.js 20+ e tente npm install novamente. Se continuar, abra uma issue com o erro completo.          🎵 Música não baixa
-Confira se o ffmpeg está instalado (ffmpeg -version). Se usa o yt-dlp como reserva, confira com yt-dlp --version e mantenha atualizado com pip install -U yt-dlp.        ---
+
+<details>  
+<summary><b>🔌 A conexão cai ou pede para apagar a sessão</b></summary>  <br/>  Apague a pasta auth_info/ e inicie o bot de novo para conectar do zero.
+
+</details>  <details>  
+<summary><b>🧩 Erro ao instalar o <code>@napi-rs/canvas</code> no Termux</b></summary>  <br/>  É uma dependência nativa e pode falhar em algumas configurações de Termux/ARM64. Atualize os pacotes (pkg update && pkg upgrade), confira se está usando Node.js 20+ e tente npm install novamente. Se continuar, abra uma issue com o erro completo.
+
+</details>  <details>  
+<summary><b>🎵 Música não baixa</b></summary>  <br/>  Confira se o ffmpeg está instalado (ffmpeg -version). Se usa o yt-dlp como reserva, confira com yt-dlp --version e mantenha atualizado com pip install -U yt-dlp.
+
+</details>  
+---
+
 👨‍💻 Criador
 
-Doctor Valeyard C'rizz Lunático
+<div align="center">  Doctor Valeyard C'rizz Lunático
+
 Canal no WhatsApp
 
-
+</div>  
 ---
 
 📄 Licença
 
 Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-⭐ Se o projeto te ajudou, deixe uma estrela no repositório! ⭐
+<div align="center">  <br/>  ⭐ Se o projeto te ajudou, deixe uma estrela no repositório! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="" />  </div>  
