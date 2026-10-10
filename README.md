@@ -1,297 +1,244 @@
-<div align="center"><a href="https://github.com/DOCTOR-VALEYARD/mikasa-v7.js">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:30104A,100:F72585&height=250&section=header&text=MIKASA%20BOT&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=INTELIG%C3%8ANCIA%20%7C%20AUTOMA%C3%87%C3%83O%20%7C%20TECNOLOGIA&descSize=17&descAlignY=58" width="100%" alt="MIKASA BOT" />
-</a><a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=F72585&center=true&vCenter=true&repeat=true&width=750&height=110&lines=Bem-vindo+ao+universo+da+MIKASA;Uma+experi%C3%AAncia+completa+no+WhatsApp;209%2B+comandos+e+15%2B+categorias;M%C3%BAsica%2C+intelig%C3%AAncia+artificial+e+automa%C3%A7%C3%A3o;Desenvolvido+por+Doctor+Valeyard+C%27rizz+Lun%C3%A1tico" alt="Apresentação animada da MIKASA BOT" />
-</a><br/><a href="https://github.com/DOCTOR-VALEYARD/mikasa-v7.js">
-  <img src="https://img.shields.io/badge/PROJETO-MIKASA%20BOT-F72585?style=for-the-badge&logo=github&logoColor=white" alt="Projeto MIKASA BOT"/>
-</a>
-<img src="https://img.shields.io/badge/NODE.JS-JavaScript-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/WHATSAPP-BAILEYS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Baileys"/>
-<img src="https://img.shields.io/badge/ANDROID-TERMUX-000000?style=for-the-badge&logo=android&logoColor=white" alt="Termux"/><br/><br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:24243e,100:00C9FF&height=250&section=header&text=MIKASA%20BOT&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bot%20de%20WhatsApp%20Multifuncional&descAlignY=58&descSize=20" width="100%"><a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00C9FF&center=true&vCenter=true&width=800&lines=MIKASA+BOT;Automação+Inteligente+para+WhatsApp;Node.js+%7C+Baileys+%7C+Termux;209%2B+Comandos+%7C+15%2B+Categorias;Desenvolvido+por+Doctor+Valeyard" alt="Animação de digitação MIKASA BOT">
+</a><br><img src="https://img.shields.io/badge/PLATAFORMA-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/NODE.JS-JavaScript-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/BIBLIOTECA-Baileys-00C9FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/AMBIENTE-Termux-black?style=for-the-badge&logo=terminal&logoColor=white">
+<img src="https://img.shields.io/badge/LICENÇA-MIT-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/VERSÃO-V7-ff0055?style=for-the-badge"><br><br>
 
-<a href="#-sobre-o-projeto">Sobre</a> •
-<a href="#-recursos">Recursos</a> •
-<a href="#-instalação">Instalação</a> •
-<a href="#-configuração">Configuração</a> •
-<a href="#-comandos">Comandos</a> •
-<a href="#-suporte">Suporte</a>
+<a href="#recursos"><img src="https://img.shields.io/badge/✨_Recursos-00C9FF?style=for-the-badge"></a>
+<a href="#instalacao"><img src="https://img.shields.io/badge/📲_Instalação-25D366?style=for-the-badge"></a>
+<a href="#primeira-execucao"><img src="https://img.shields.io/badge/👑_Primeira_Execução-FFD700?style=for-the-badge"></a>
+<a href="#configuracao"><img src="https://img.shields.io/badge/⚙️_Configuração-9370DB?style=for-the-badge"></a>
+<a href="#comandos"><img src="https://img.shields.io/badge/📜_Comandos-FF6347?style=for-the-badge"></a>
+<a href="#problemas"><img src="https://img.shields.io/badge/❓_Problemas-708090?style=for-the-badge"></a>
 
 </div>---
 
-<div align="center">🌹 SOBRE O PROJETO
+💫 Sobre
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&repeat=true&width=650&height=65&lines=Mais+que+um+bot.+Uma+experi%C3%AAncia.;Tecnologia+desenvolvida+para+ir+al%C3%A9m.;MIKASA+BOT+%E2%80%94+intelig%C3%AAncia+em+a%C3%A7%C3%A3o." alt="Sobre a MIKASA"/></div>A MIKASA BOT é um projeto de automação para WhatsApp desenvolvido em Node.js, utilizando a biblioteca Baileys para comunicação com a plataforma.
+<div align="center"><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Conheça+a+MIKASA+BOT;Tecnologia+%2B+Automação+%2B+Diversão;Uma+experiência+interativa+no+WhatsApp" alt="Apresentação animada">
+</a></div>A MIKASA BOT é um bot de WhatsApp multifuncional desenvolvido em Node.js com a biblioteca Baileys. Ela oferece menus interativos com botões e listas, ferramentas de administração de grupos, sistema de níveis e moedas, jogos, download de músicas, figurinhas e uma inteligência artificial com personalidade própria.
 
-O objetivo é reunir ferramentas de administração, entretenimento, interação e personalização em um único bot, com menus organizados e uma experiência prática para os usuários.
+Todos os recursos são gratuitos: não existe sistema de VIP nem de pagamento.
 
-Com comandos distribuídos por categorias, a MIKASA oferece recursos para gerenciamento de grupos, jogos, economia virtual, músicas, figurinhas e inteligência artificial.
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:24243e&height=3&section=header" width="80%"><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00C9FF&center=true&vCenter=true&width=500&lines=209%2B+Comandos;15%2B+Categorias;Diversão+e+produtividade;Tudo+em+um+só+bot" alt="Estatísticas animadas">
+</a></div>---
 
-«MIKASA BOT — tecnologia, personalidade e automação em um só lugar.»
+<a id="recursos"></a>
 
-<div align="center">⚡ Característica| 📌 Informação
-🤖 Projeto| MIKASA BOT
-💻 Linguagem| JavaScript
-⚙️ Runtime| Node.js
-🔌 Biblioteca WhatsApp| Baileys
-📱 Plataforma| Termux / Android
-🎯 Prefixo| "/"
-📚 Comandos| 209+
-🗂️ Categorias| 15+
-📄 Licença| MIT
+✨ Recursos
 
-</div>---
+<div align="center"><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Explore+as+funcionalidades;Uma+experiência+completa;Ferramentas+para+o+seu+grupo" alt="Recursos da Mikasa">
+</a></div>Categoria| Funcionalidades
+🤖 Inteligência Artificial| Mikasa responde conversas com personalidade própria. Requer uma chave de API; consulte Configuração.
+📋 Menus interativos| Menu principal com botões e listas do WhatsApp, separado por categorias.
+🛡️ Proteções de grupo| Antilink, antifake, antinota, anti-NSFW, antidelete, antiloop e x9 (visualização única).
+👋 Boas-vindas| Mensagens de entrada e saída, com áudios e figurinhas.
+🎮 Jogos| Forca, adivinha, quiz, jogo da velha, duelo, roleta e muito mais.
+💰 Economia e níveis| XP, nível, gold, perfil, ranking, loja e missões.
+🎵 Música e mídia| Download de áudio, conversão para MP3, figurinhas e GIFs.
+📊 Relatórios| Ranking de ativos e inativos, relatório diário de atividade.
+⚙️ Painel de configuração| Alteração de prefixo, nome, criador e chaves diretamente pelo WhatsApp.
 
-<div align="center">✨ RECURSOS DO SISTEMA
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:00C9FF&height=3&section=header" width="80%"></div>---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=700&color=F72585&center=true&vCenter=true&repeat=true&width=650&height=65&lines=Um+sistema+com+diversas+possibilidades.;Administra%C3%A7%C3%A3o%2C+entretenimento+e+personaliza%C3%A7%C3%A3o.;Tudo+organizado+em+um+%C3%BAnico+projeto." alt="Recursos animados"/></div>🤖 Inteligência artificial
+<a id="instalacao"></a>
 
-- Respostas automáticas com personalidade própria.
-- Integração condicionada à configuração de uma chave de API.
-- Possibilidade de personalizar o comportamento conforme os recursos disponíveis.
+📲 Instalação no Termux
 
-📋 Menus interativos
+<div align="center"><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=900&color=25D366&center=true&vCenter=true&width=600&lines=Instalação+automatizada;Configure+seu+ambiente;Execute+e+conecte+seu+WhatsApp" alt="Instalação animada">
+</a></div>«[!NOTE]
+O instalador abaixo é destinado ao Termux no Android. Ele atualiza os pacotes, instala os requisitos, cria a pasta do projeto, baixa o bot, extrai os arquivos, instala as dependências e inicia a aplicação.»
 
-- Menu principal organizado por categorias.
-- Botões e listas interativas compatíveis com a implementação do bot.
-- Acesso simplificado às funcionalidades.
+🚀 Instalação em um comando
 
-🛡️ Administração e proteção
+Copie o comando abaixo, cole no Termux e pressione ENTER:
 
-- Antilink e antifake.
-- Antinota e anti-NSFW.
-- Antidelete e antiloop.
-- Recursos relacionados a mensagens de visualização única.
-- Ferramentas de gerenciamento de grupos.
+pkg update -y && pkg install -y nodejs-lts wget unzip ffmpeg && mkdir -p ~/MIKASA-V7 && cd ~/MIKASA-V7 && wget -O bot-v7.zip https://github.com/DOCTOR-VALEYARD/mikasa-v7.js/raw/refs/heads/main/bot-v7.zip && unzip -o bot-v7.zip && npm install && node mikasabot.js
 
-👋 Boas-vindas
+🔍 O que o instalador faz?
 
-- Mensagens de entrada e saída.
-- Suporte a conteúdos multimídia conforme a configuração.
-- Personalização das mensagens do grupo.
+Etapa| Processo
+1️⃣| Atualiza o Termux e instala Node.js LTS, wget, unzip e FFmpeg.
+2️⃣| Cria a pasta "~/MIKASA-V7" e entra nela.
+3️⃣| Baixa o arquivo "bot-v7.zip" do GitHub e extrai os arquivos.
+4️⃣| Instala as dependências usando "npm install".
+5️⃣| Inicia o bot com "node mikasabot.js".
 
-🎮 Jogos e entretenimento
+▶️ Iniciar o bot novamente
 
-- Forca.
-- Adivinhação.
-- Quiz.
-- Jogo da velha.
-- Duelo e roleta.
-- Outros jogos disponíveis no projeto.
+cd ~/MIKASA-V7 && node mikasabot.js
 
-💰 Economia virtual e níveis
+🔄 Atualizar o bot
 
-- Experiência e níveis.
-- Gold e perfil.
-- Ranking, loja e missões.
-- Recursos de progressão virtual.
+Execute novamente o comando de instalação. A extração com "unzip -o" sobrescreve os arquivos correspondentes.
 
-🎵 Música e mídia
+Atenção: a sessão do WhatsApp em "auth_info/" pode permanecer, mas os arquivos da pasta "database/" também podem ser sobrescritos pelos arquivos do ZIP. Para preservar seus dados, faça uma cópia antes de atualizar:
 
-- Download de áudio, conforme os serviços utilizados.
-- Conversão para MP3.
-- Criação de figurinhas.
-- Conversão de GIFs e outras mídias compatíveis.
+cp -r ~/MIKASA-V7/database ~/database-backup
 
-📊 Relatórios
+«[!TIP]
+Quer usar o "yt-dlp" como alternativa para downloads de músicas? Instale-o opcionalmente com:
 
-- Ranking de atividade.
-- Identificação de usuários ativos e inativos.
-- Relatórios de atividade conforme a implementação disponível.
-
-⚙️ Personalização
-
-- Prefixo dos comandos.
-- Nome do bot.
-- Informações do criador.
-- Configurações e chaves compatíveis com o sistema.
+pkg install -y python && pip install yt-dlp»
 
 ---
 
-<div align="center">📲 INSTALAÇÃO NO TERMUX
+<a id="primeira-execucao"></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=25D366&center=true&vCenter=true&repeat=true&width=650&height=65&lines=Instala%C3%A7%C3%A3o+automatizada.;Baixe%2C+extraia%2C+instale+e+execute.;MIKASA+BOT+no+seu+ambiente+Android." alt="Instalação animada"/></div>📌 Requisitos
+👑 Primeira execução
 
-- Android com Termux instalado.
-- Conexão com a internet.
-- Espaço disponível para o projeto e suas dependências.
-- Acesso ao WhatsApp para vincular a sessão do bot.
+<div align="center"><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=FFD700&center=true&vCenter=true&width=600&lines=Configuração+inicial;Defina+o+criador;Escolha+como+conectar" alt="Primeira execução">
+</a></div>Na primeira inicialização, o bot realiza uma configuração rápida diretamente no terminal.
 
-🚀 Instalação com um único comando
+1. 👑 Número do criador
 
-Abra o Termux, copie o comando abaixo e pressione ENTER.
+Informe o número que será identificado como criador do bot. Ele pode ser diferente do número que conectará o WhatsApp e será utilizado nos menus e no botão “Falar com o criador”.
 
-pkg update -y && pkg install -y nodejs-lts wget unzip ffmpeg && mkdir -p "$HOME/MIKASA-V7" && cd "$HOME/MIKASA-V7" && wget -O bot-v7.zip "https://github.com/DOCTOR-VALEYARD/mikasa-v7.js/raw/refs/heads/main/bot-v7.zip" && unzip -o bot-v7.zip && npm install && node mikasabot.js
+2. 📛 Nome do criador (opcional)
 
-⚡ O que o instalador executa?
+Digite o nome desejado ou pressione ENTER para manter o nome padrão.
 
-Etapa| Operação
-01| Atualiza os pacotes do Termux.
-02| Instala Node.js, wget, unzip e FFmpeg.
-03| Cria a pasta "MIKASA-V7" no diretório pessoal.
-04| Baixa o arquivo ZIP do repositório.
-05| Extrai os arquivos do projeto.
-06| Instala as dependências do Node.js.
-07| Inicia a MIKASA BOT.
+3. 🔗 Forma de conexão
 
-Observação: o comando pressupõe que "mikasabot.js" e "package.json" estejam no diretório atual após a extração. Se o ZIP tiver uma pasta interna, será necessário entrar nela antes de executar "npm install".
+Escolha entre QR Code ou código de pareamento.
 
-▶️ Como iniciar novamente
+Exemplo de confirmação:
 
-Depois de concluir a instalação, use:
+➜ 5511999998888
 
-cd "$HOME/MIKASA-V7" && node mikasabot.js
+✅ O criador será +5511999998888.
+Está certo? [S/n]
 
-Se o arquivo principal estiver em uma subpasta extraída, ajuste o caminho para o local correto.
-
-🔄 Como atualizar
-
-Faça uma cópia de segurança antes de substituir arquivos. Isso ajuda a preservar as configurações, os dados e a sessão do WhatsApp.
-
-cp -r "$HOME/MIKASA-V7/database" "$HOME/database-backup"
-
-Em seguida, baixe e extraia a nova versão de acordo com a estrutura do pacote. Atenção: extrair novamente com "unzip -o" pode substituir arquivos existentes, inclusive dados presentes no ZIP.
-
----
-
-<div align="center">👑 PRIMEIRA EXECUÇÃO
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2700&pause=800&color=FFD166&center=true&vCenter=true&repeat=true&width=650&height=65&lines=Configure+o+criador.;Escolha+a+forma+de+conex%C3%A3o.;Vincule+seu+WhatsApp+e+comece." alt="Primeira execução animada"/></div>Na primeira inicialização, o bot pode solicitar informações para concluir a configuração inicial:
-
-1. Número do criador: informe o número que deverá ser reconhecido como proprietário.
-2. Nome do criador: personalize a identificação ou mantenha o valor padrão.
-3. Conexão com o WhatsApp: selecione QR Code ou código de pareamento, conforme as opções implementadas.
-
-Exemplo ilustrativo de entrada:
-
-Número do criador:
-5511999998888
-
-O criador será +5511999998888. Está certo? [S/n]
-
-Se a implementação estiver configurada dessa maneira, as informações serão armazenadas em "database/botconfig.json".
+Após a configuração, as informações ficam salvas em "database/botconfig.json", e o bot não pergunta novamente.
 
 🔄 Alterar o número do criador
 
-Caso o comando esteja implementado na versão instalada, utilize:
-
-/configurar-bot numero SEU_NUMERO
-
-Outra opção é revisar a configuração persistida em "database/botconfig.json". Faça uma cópia antes de remover ou modificar campos.
+- Pelo WhatsApp, utilize "configurar-bot numero SEU_NUMERO".
+- Como alternativa, apague a linha "OWNER_CONFIGURADO" do arquivo "database/botconfig.json" e reinicie o bot para refazer a configuração.
 
 ---
 
-<div align="center">⚙️ CONFIGURAÇÃO
+<a id="configuracao"></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=BD93F9&center=true&vCenter=true&repeat=true&width=650&height=65&lines=Personalize+o+comportamento+do+bot.;Ajuste+as+op%C3%A7%C3%B5es+conforme+sua+necessidade.;Mantenha+suas+credenciais+protegidas." alt="Configuração animada"/></div>As configurações padrão podem estar definidas no arquivo "config.js", enquanto alterações persistentes podem ser armazenadas em "database/botconfig.json", dependendo da implementação da versão instalada.
+⚙️ Configuração
 
-Opção| Finalidade
-"PREFIX"| Prefixo dos comandos.
-"BOT_NAME"| Nome exibido nos menus e nas mensagens.
-"OWNER_NUMBER"| Número do criador.
-"OWNER_NAME"| Nome do criador.
-"OPEN_ACCESS"| Controle de acesso aos comandos, conforme a lógica do projeto.
-"AI_ATIVA"| Ativação da inteligência artificial, se disponível.
-"AI_API_KEY"| Chave da API utilizada pela integração de IA.
-"MUSICA"| Opções relacionadas ao sistema de música, conforme o código.
+<div align="center"><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=9370DB&center=true&vCenter=true&width=600&lines=Personalize+a+MIKASA;Ajuste+as+opções;Configure+seu+ambiente" alt="Configuração animada">
+</a></div>As configurações padrão ficam no arquivo "config.js". As alterações feitas pelo bot são salvas em "database/botconfig.json" e têm prioridade.
 
-🤖 Configurar a inteligência artificial
+Opção| Descrição
+"PREFIX"| Prefixo dos comandos. Também pode ser alterado com "configurar-bot prefixo".
+"BOT_NAME"| Nome do bot exibido nos menus e nas mensagens.
+"OWNER_NUMBER" / "OWNER_NAME"| Número e nome do criador, definidos na primeira execução.
+"OPEN_ACCESS"| "true" permite que qualquer pessoa utilize qualquer comando; "false" restringe os comandos de dono ao criador.
+"AI_ATIVA" / "AI_API_KEY"| Ativa a IA e define a chave da API.
+"MUSICA"| Configura o mecanismo de download ("yt-dlp"), a qualidade e a duração máxima.
 
-Caso o projeto utilize a variável "AI_API_KEY", configure-a no terminal:
+🤖 Ativando a inteligência artificial
 
-export AI_API_KEY="SUA_CHAVE_AQUI"
+A chave de API não está incluída no projeto. Configure-a de uma das formas abaixo.
 
-Ou, se a implementação aceitar esse campo no arquivo de configuração:
+Opção 1 — Variável de ambiente
+
+export AI_API_KEY="sua_chave_aqui"
+
+Opção 2 — Arquivo "database/botconfig.json"
 
 {
-  "AI_API_KEY": "SUA_CHAVE_AQUI"
+  "AI_API_KEY": "sua_chave_aqui"
 }
 
-Substitua o exemplo por uma chave válida do serviço utilizado pelo bot.
+Sem a chave, o bot continua funcionando normalmente, mas não fornece respostas de IA.
 
 «[!WARNING]
-Nunca publique suas chaves de API ou a pasta "auth_info/". Ela pode conter credenciais de sessão do WhatsApp. Não compartilhe esses dados em issues, prints ou repositórios públicos.»
+Nunca publique sua chave de API nem a pasta "auth_info/", que contém a sessão do seu WhatsApp. O ".gitignore" do projeto já ignora "auth_info/".»
 
-🔓 Controle de acesso
+🔓 Sobre o "OPEN_ACCESS"
 
-Revise a opção "OPEN_ACCESS" antes de disponibilizar o bot a outras pessoas. Um modo de acesso amplo pode expor comandos administrativos, dependendo de como as permissões foram implementadas.
+Por padrão, o modo aberto vem ativado. Isso significa que qualquer pessoa que falar com o bot poderá utilizar todos os comandos, inclusive reiniciar, desligar e enviar mensagens por broadcast.
 
-Mantenha os comandos de reinicialização, desligamento, transmissão e gerenciamento restritos a pessoas autorizadas.
-
----
-
-<div align="center">📜 COMANDOS
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=F72585&center=true&vCenter=true&repeat=true&width=650&height=65&lines=209%2B+comandos+informados+no+projeto.;15%2B+categorias+para+explorar.;Descubra+as+funcionalidades+da+MIKASA." alt="Comandos animados"/></div>A MIKASA possui mais de 209 comandos informados para o projeto, organizados em mais de 15 categorias.
-
-A lista detalhada deverá ser preenchida com os comandos realmente disponíveis na versão publicada.
-
-«🚧 Documentação em atualização: a relação completa de comandos será adicionada após a conferência do código-fonte.»
+Se você hospeda o bot para um grupo grande, considere definir "OPEN_ACCESS" como "false" no arquivo "config.js".
 
 ---
 
-<div align="center">❓ SUPORTE E SOLUÇÃO DE PROBLEMAS
+<a id="comandos"></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=25D366&center=true&vCenter=true&repeat=true&width=650&height=65&lines=Encontrou+um+erro%3F;Confira+os+requisitos+e+as+depend%C3%AAncias.;Analise+o+log+para+identificar+a+causa." alt="Suporte animado"/></div><details>
-<summary><b>🔌 A conexão com o WhatsApp caiu</b></summary>Confira a conexão com a internet e as mensagens exibidas no terminal. Se for necessário vincular o bot novamente, siga o procedimento de desconexão e pareamento previsto na implementação.
+📜 Comandos
 
-Não exclua "auth_info/" sem antes compreender que isso pode exigir uma nova autenticação.
+<div align="center"><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=800&color=FF6347&center=true&vCenter=true&width=600&lines=Explore+os+comandos;Descubra+as+funcionalidades;Automação+ao+seu+alcance" alt="Comandos da Mikasa">
+</a></div>«[!IMPORTANT]
+🚧 A lista completa de comandos será adicionada aqui em breve.»
+
+---
+
+<a id="problemas"></a>
+
+❓ Problemas comuns
+
+<div align="center"><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=FF6347&center=true&vCenter=true&width=600&lines=Encontrou+um+problema%3F;Confira+as+soluções;Volte+a+usar+a+MIKASA" alt="Solução de problemas">
+</a></div><details>
+<summary>🔌 A conexão cai ou pede para apagar a sessão</summary>Apague a pasta "auth_info/" e inicie o bot novamente para realizar uma nova conexão do zero.
+
+Atenção: isso remove a sessão salva e você precisará autenticar o WhatsApp novamente.
 
 </details><details>
-<summary><b>🧩 Erro ao instalar dependências</b></summary>Atualize os pacotes do Termux e confira a versão do Node.js:
+<summary>🧩 Erro ao instalar o @napi-rs/canvas no Termux</summary>Essa é uma dependência nativa que pode apresentar problemas em algumas configurações do Termux e ARM64.
+
+Atualize os pacotes:
 
 pkg update && pkg upgrade
-node -v
-npm -v
 
-Depois, dentro da pasta correta do projeto, tente:
+Confira se está utilizando Node.js 20 ou superior e tente instalar as dependências novamente:
 
 npm install
 
-Dependências nativas, como bibliotecas de canvas, podem apresentar incompatibilidades dependendo da versão do Node.js e da arquitetura do dispositivo.
+Se o erro persistir, abra uma issue e inclua a mensagem completa do erro.
 
 </details><details>
-<summary><b>🎵 O download de música não funciona</b></summary>Confira se o FFmpeg está disponível:
+<summary>🎵 As músicas não são baixadas</summary>Verifique se o FFmpeg está instalado:
 
 ffmpeg -version
 
-Se o projeto oferecer suporte ao "yt-dlp" como alternativa, instale-o conforme os requisitos documentados para a versão do Termux utilizada. A disponibilidade de downloads também depende dos serviços externos.
+Se estiver utilizando o "yt-dlp" como alternativa, confira a instalação:
 
-</details><details>
-<summary><b>⚠️ O bot inicia e encerra imediatamente</b></summary>Leia as últimas mensagens do terminal e confira se o arquivo principal e as dependências estão no diretório esperado.
+yt-dlp --version
 
-pwd
-ls -la
-node -v
-npm -v
+Atualize-o, se necessário:
 
-Se o erro persistir, registre a mensagem completa, removendo tokens, números privados e credenciais antes de compartilhá-la.
+pip install -U yt-dlp
 
 </details>---
 
-<div align="center">👨‍💻 DESENVOLVIMENTO
+👨‍💻 Criador
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=F72585&center=true&vCenter=true&repeat=true&width=700&height=70&lines=DOCTOR+VALEYARD+C%27RIZZ+LUN%C3%81TICO;Criatividade+transformada+em+c%C3%B3digo.;MIKASA+BOT+%E2%80%94+um+projeto+em+evolu%C3%A7%C3%A3o." alt="Criador da MIKASA"/>Doctor Valeyard C'rizz Lunático
+<div align="center"><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=DOCTOR+VALEYARD+C%27RIZZ+LUN%C3%81TICO;Criador+e+desenvolvedor+da+MIKASA+BOT;Tecnologia+%7C+Código+%7C+Automação" alt="Criador da Mikasa">
+</a><br><br>
 
-Desenvolvimento, manutenção e evolução do projeto MIKASA BOT.
+Doctor Valeyard C'rizz Lunático
 
-<a href="https://github.com/DOCTOR-VALEYARD">
-  <img src="https://img.shields.io/badge/GitHub-DOCTOR--VALEYARD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub do criador"/>
-</a><br/><br/>
+Canal no WhatsApp
 
-<a href="https://github.com/DOCTOR-VALEYARD/mikasa-v7.js">
-  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO-ACESSAR-F72585?style=for-the-badge&logo=github&logoColor=white" alt="Acessar repositório"/>
-</a></div>---
+</div>---
 
-<div align="center">📄 LICENÇA
+📄 Licença
 
-O projeto declara distribuição sob a licença MIT. Consulte o arquivo "LICENSE" do repositório para confirmar os termos aplicáveis à versão publicada.
+Distribuído sob a licença MIT. Consulte o arquivo "LICENSE" para obter mais detalhes.
 
-<br/>⭐ GOSTOU DO PROJETO?
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:24243e&height=3&section=footer" width="80%"><a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Se+a+MIKASA+te+ajudou%2C+deixe+uma+estrela!;⭐+Apoie+o+projeto+no+GitHub+⭐;Obrigado+por+fazer+parte+dessa+história!" alt="Apoie a Mikasa">
+</a><br><a href="https://github.com/DOCTOR-VALEYARD/mikasa-v7.js">
+<img src="https://img.shields.io/badge/⭐_STAR_NO_GITHUB-Apoie_o_Projeto-FFD700?style=for-the-badge&logo=github&logoColor=black">
+</a><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=800&color=FFD166&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Deixe+uma+estrela+no+GitHub.;Compartilhe+o+projeto.;Apoie+a+evolu%C3%A7%C3%A3o+da+MIKASA+BOT." alt="Apoie o projeto"/>Se a MIKASA BOT foi útil para você, considere deixar uma ⭐ no repositório.
-
-<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:30104A,100:F72585&height=150&section=footer" width="100%" alt="Rodapé animado"/>MIKASA BOT © DOCTOR VALEYARD C'RIZZ LUNÁTICO
-
-<sub>Construído com JavaScript, tecnologia e criatividade.</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:24243e,100:00C9FF&height=130&section=footer"></div>
