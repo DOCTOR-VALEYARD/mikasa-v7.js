@@ -1,0 +1,4 @@
+Coloque aqui os áudios de BOA TARDE (mp3, ogg, m4a, opus ou wav), com qualquer nome.
+Quando alguém falar "boa tarde" (com a saudação ligada no grupo: <prefixo>saudacao on),
+o bot sorteia um áudio daqui e manda marcando a pessoa.
+Também dá pra subir pelo próprio bot: configurar-bot > SUBIR ÁUDIO > BOA TARDE.

@@ -1,0 +1,16 @@
+{
+  "CONFIG_CODE": "1234",
+  "BOT_PHOTO": "./src/midias/videos/menu.mp4",
+  "PREFIX": "!",
+  "OWNER_NUMBER": "5516998761099",
+  "OWNER_NAME": "Doctor Valeyard C'rizz Lunático",
+  "CHANNEL_URL": "https://whatsapp.com/channel/0029VbEHp6CFHWpymLOJGZ28",
+  "BOT_NAME": "*M͜͡I͜͡K͜͡A͜͡S͜͡A͜͡*",
+  "BOT_FUNDO": "./src/midias/imagens/fundo.png",
+  "BOT_FUNDO_ANIMADO": true,
+  "BOT_PHOTO_GIF": true,
+  "GIPHY_API_KEY": "42qTuB1yFOXVvzBJ7b508jzwkmawO9iH",
+  "OWNER_LID": "260533353717854",
+  "MP_ACCESS_TOKEN": "",
+  "BRINCADEIRAS_ATIVA": true
+}
